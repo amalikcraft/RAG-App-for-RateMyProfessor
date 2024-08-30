@@ -1,0 +1,122 @@
+{
+    "reviews": [{
+        "professor": "Dr. Emily Johnson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Dr. Johnson is very knowledgeable and passionate about history. Her lectures are engaging and informative."
+    },
+    {
+        "professor": "Professor Michael Smith",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Professor Smith explains concepts well, but the exams are quite challenging."
+    },
+    {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Dr. Lee's classes are a delight. She encourages critical thinking and open discussions."
+    },
+    {
+        "professor": "Professor James Brown",
+        "subject": "Math",
+        "stars": 2,
+        "review": "Professor Brown's lectures are hard to follow, and he doesn't provide enough examples."
+    },
+    {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Martinez is very approachable and always willing to help students outside of class."
+    },
+    {
+        "professor": "Professor Robert Wilson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Professor Wilson makes biology fun and interesting. His enthusiasm is contagious."
+    },
+    {
+        "professor": "Dr. Karen Davis",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dr. Davis is knowledgeable, but her lectures can be dry at times."
+    },
+    {
+        "professor": "Professor Richard Taylor",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Professor Taylor encourages deep thinking and challenges students to question assumptions."
+    },
+    {
+        "professor": "Dr. Jessica White",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. White is an excellent professor who makes complex topics easy to understand."
+    },
+    {
+        "professor": "Professor David Harris",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Professor Harris's classes are not well-organized, and it's hard to keep up with the material."
+    },
+    {
+        "professor": "Dr. Nancy King",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. King provides insightful analysis and encourages lively class discussions."
+    },
+    {
+        "professor": "Professor Thomas Green",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Professor Green is knowledgeable, but his lectures can be a bit monotonous."
+    },
+    {
+        "professor": "Dr. Laura Adams",
+        "subject": "Art",
+        "stars": 5,
+        "review": "Dr. Adams is incredibly talented and inspires creativity in her students."
+    },
+    {
+        "professor": "Professor Charles Hall",
+        "subject": "Music",
+        "stars": 4,
+        "review": "Professor Hall has a deep understanding of music theory and makes learning enjoyable."
+    },
+    {
+        "professor": "Dr. Patricia Allen",
+        "subject": "Computer Science",
+        "stars": 2,
+        "review": "Dr. Allen's lectures are difficult to follow, and she doesn't provide enough practical examples."
+    },
+    {
+        "professor": "Professor Steven Young",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Professor Young is passionate about the environment and inspires students to make a difference."
+    },
+    {
+        "professor": "Dr. Barbara Scott",
+        "subject": "Business",
+        "stars": 3,
+        "review": "Dr. Scott is knowledgeable, but her classes can be quite demanding."
+    },
+    {
+        "professor": "Professor Andrew Clark",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Professor Clark makes chemistry accessible and interesting with practical examples."
+    },
+    {
+        "professor": "Dr. Susan Lewis",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Dr. Lewis is an amazing teacher who makes math fun and understandable."
+    },
+    {
+        "professor": "Professor Karen Walker",
+        "subject": "History",
+        "stars": 3,
+        "review": "Professor Walker has a lot of knowledge, but her lectures can be a bit dry."
+    }]
+}
